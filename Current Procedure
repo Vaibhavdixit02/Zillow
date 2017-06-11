@@ -1,0 +1,6 @@
+(For now)
+1. Select 3-4 fields(minimum missing) containing discrete data from the properties_2016.csv
+2. Reduce number of rows to 5k or so
+3. Check their correlation via pearson correlation test(to drop redundant data)
+4. Implement classification algorithms on the reduced fields
+5. Add a continuous field and Devise a way to predict using both types(dont worry about consistency/validity of the hypothesis for now)
